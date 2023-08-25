@@ -9,9 +9,9 @@ from gspread_dataframe import get_as_dataframe, set_with_dataframe
 start_time = time.time()
 
 engine = create_engine(URL(
-                    account = 'ceiknnc-keb24333',
-                    user = 'thoufiq',
-                    password = 'Admin$1234',
+                    account = 'pouszfb-on70884',
+                    user = 'Swateya',
+                    password = 'SWATsumi@03',
                     database = 'demo',
                     schema = 'public',
                     warehouse = 'demo_wh'))
